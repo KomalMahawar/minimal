@@ -1,6 +1,6 @@
 # Data Science Portfolio
 ### Goldman Sachs Automation using HRS and Automation Anywhere (June 2020-August 2020)
-
+<html>
 Company: NTT Data Services</br>
 Technologies: HRS Automation Tool and Automation Anywhere</br>
 Client: GS, Bangalore</br>
@@ -62,7 +62,7 @@ Technologies: .Net Framework, C#, MVC 4, SQL 2008, CSS.</br>
 Role: Developer</br>
 Responsibilities: Code Understanding requirements, coding and database development.</br>
 Description:  It is a product built for banking which include various modules such as personal banking, corporate banking, loans, etc. It enables a customer to open account, view existing account, keep a track of their transactions, request for banking related services as well as for banking officials and managers to approve or reject loans, to open accounts for customers and related tasks.
-
+</html>
 ###### Header 6
 
 | head1        | head two          | three |
