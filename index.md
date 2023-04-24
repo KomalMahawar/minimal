@@ -1,53 +1,67 @@
----
-layout: default
----
+# Data Science Portfolio
+### Goldman Sachs Automation using HRS and Automation Anywhere (June 2020-August 2020)
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Company: NTT Data Services
+Technologies: HRS Automation Tool and Automation Anywhere
+Client: GS, Bangalore
+Description:  Goldman Sachs Group, an American multinational investment and financial services company. GS commissioned IDEA to investigate all opportunities which are in scope of low-risk, repeatable, commoditized work and automate those use cases. These automation development works are managed via the scrum framework with each sprint being 3 weeks’ duration. Each sprint covers development and system testing.
+Role: To develop application process automation using HRS
+Responsibilities:
+Analyzed the banking support production process and gathered the data, created orchestration module and team along with production support, designed and developed solutions to automate processes using HRS (Health Restoration Services).
+Have done POC using Automation Anywhere for one process and deployed it in production using SDLC life Cycle via Optimus.
+Experience working on Agile Methodology – Scrum.
+Documenting thoroughly the whole development process. 
+Creating and updating the JIRA as per the development and progress made on use case
 
-[Link to another page](./another-page.html).
+### AMEX Process Implementation using Blue Prism(August 2018 – June 2020)
+Company: Infosys
+Technologies: Blue Prism Automation Tool
+Client: AMEX, Bangalore
+Description:  AMEX is an Investment bank based in US. Amex commissioned Automation   Intelligent Program (AIM) to investigate all opportunities which are in scope of low-risk, repeatable, commoditized work and automate those use cases. These automation development works are managed via the scrum framework with each sprint being 3 weeks’ duration. Each sprint covers development and system testing.
+Role: To develop application process automation .
+Responsibilities:
+Analyzed the banking production process and gathered the data, Created RPA structure and     team along with production support, designed and developed RPA solutions to accelerate   Business processes.
+Implemented End to End Robotic Process Automation (RPA) for various processes in commercial banking sector using Blue Prism.
+Building the logic and designing process and objects. Worked on Solution diagrams and Solution description and object model diagrams.
+Working on Business process diagrams and process flow charts with RPA tools
+Hands-on experience with visualization tools such as MS Excel, MS Visio.
+Experience working on Agile Methodology – Scrum.
+Documenting thoroughly the whole development process. 
+Creating and updating the RALLY as per the development and progress made on use case
 
-There should be whitespace between paragraphs.
+### UBS Automation Implementation using NIA (Dec 2016 – June 2018)
+Company: Infosys
+Technologies: NIA Automation Platform (Infosys Tool), Unix Shell Scripting, SQL, Java
+Client: UBS (One of the top third largest US Bank), Pune
+Description:  UBS is an Investment bank based in Switzerland. UBS commissioned Automation   Intelligent Program (AIM) to investigate all opportunities which are in scope of low-risk, repeatable, commoditized work and automate those use cases. These automation development works are managed via the scrum framework with each sprint being 3 weeks’ duration. Each sprint covers development and system testing.
+Role: To develop application support automation
+Responsibilities:
+Analyzed the banking production process and gathered the data, Created RPA structure and     team along with production support, designed and developed RPA solutions to accelerate   Business processes.
+Implemented End to End Robotic Process Automation (RPA) for various processes in commercial banking sector using NIA
+Building the logic and writing scripts in Shell Script. Worked on Solution diagrams and Solution description and object model diagrams.
+Customization of platform adapters to integrate Service Now with NIA.
+Working on Business process diagrams and process flow charts with RPA tools
+Hands-on experience with visualization tools such as MS Excel, MS Visio.
+Experience working on Agile Methodology – Scrum.
+Documenting thoroughly the whole development process. 
+Creating and updating the JIRA's as per the development and progress made on use case
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### ARJT (Access Rights Justification Tool): (Aug 2015 – Oct 2016)
+Company: Infosys
+Client: One of the top third largest US Bank
+Technologies: C#, .Net, MVC 4.5, LINQ, Entity Framework.
+Role: Developer
+Responsibilities: Understanding requirements, coding and database development.
+Description:  ARJT is a project used to provide access and justification for given accesses on different resources, servers on network. It is used to check trending of access removal. It controls accesses of user accounts and service accounts. It also maintains access role hierarchy.
 
-# Header 1
+### IEBI (In Essence Banking Investment): Web Application
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+Company: Infosys
+Client: Infosys (Internal Project)
+Technologies: .Net Framework, C#, MVC 4, SQL 2008, CSS.
+Role: Developer
+Responsibilities: Code Understanding requirements, coding and database development.
+Description:  It is a product built for banking which include various modules such as personal banking, corporate banking, loans, etc. It enables a customer to open account, view existing account, keep a track of their transactions, request for banking related services as well as for banking officials and managers to approve or reject loans, to open accounts for customers and related tasks.
 
 ###### Header 6
 
